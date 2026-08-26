@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/yashica1234/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashica1234/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashica1234/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/yashica1234/Leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/yashica1234/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/yashica1234/Leetcode/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/yashica1234/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/yashica1234/Leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/yashica1234/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/yashica1234/Leetcode/tree/master/0268-missing-number) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/yashica1234/Leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 ## Sorting
 |  |
 | ------- |
@@ -123,4 +126,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/yashica1234/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [2588-count-the-number-of-beautiful-subarrays](https://github.com/yashica1234/Leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
 <!---LeetCode Topics End-->
