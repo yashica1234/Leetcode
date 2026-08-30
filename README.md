@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/yashica1234/Leetcode/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/yashica1234/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yashica1234/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/yashica1234/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/yashica1234/Leetcode/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/yashica1234/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashica1234/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yashica1234/Leetcode/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yashica1234/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/yashica1234/Leetcode/tree/master/0493-reverse-pairs) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/yashica1234/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Bit Manipulation
 |  |
 | ------- |
