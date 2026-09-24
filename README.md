@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yashica1234/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/yashica1234/Leetcode/tree/master/0283-move-zeroes) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yashica1234/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0410-split-array-largest-sum](https://github.com/yashica1234/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/yashica1234/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/yashica1234/Leetcode/tree/master/0493-reverse-pairs) |
 | [0525-contiguous-array](https://github.com/yashica1234/Leetcode/tree/master/0525-contiguous-array) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/yashica1234/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/yashica1234/Leetcode/tree/master/0268-missing-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yashica1234/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0410-split-array-largest-sum](https://github.com/yashica1234/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/yashica1234/Leetcode/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashica1234/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yashica1234/Leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/yashica1234/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashica1234/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/yashica1234/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/yashica1234/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Simulation
 |  |
 | ------- |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/yashica1234/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/yashica1234/Leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yashica1234/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [2588-count-the-number-of-beautiful-subarrays](https://github.com/yashica1234/Leetcode/tree/master/2588-count-the-number-of-beautiful-subarrays) |
@@ -201,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yashica1234/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/yashica1234/Leetcode/tree/master/0493-reverse-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/yashica1234/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
