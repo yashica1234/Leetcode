@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/yashica1234/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/yashica1234/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/yashica1234/Leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/yashica1234/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/yashica1234/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yashica1234/Leetcode/tree/master/0268-missing-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashica1234/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/yashica1234/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/yashica1234/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/yashica1234/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/yashica1234/Leetcode/tree/master/0169-majority-element) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/yashica1234/Leetcode/tree/master/0013-roman-to-integer) |
 | [1021-remove-outermost-parentheses](https://github.com/yashica1234/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yashica1234/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Stack
