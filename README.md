@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/yashica1234/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/yashica1234/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/yashica1234/Leetcode/tree/master/0268-missing-number) |
+| [1922-count-good-numbers](https://github.com/yashica1234/Leetcode/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/yashica1234/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Hash Table
 |  |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/yashica1234/Leetcode/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/yashica1234/Leetcode/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
 | ------- |
