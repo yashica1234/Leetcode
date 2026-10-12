@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/yashica1234/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yashica1234/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashica1234/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/yashica1234/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/yashica1234/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/yashica1234/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Simulation
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/yashica1234/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/yashica1234/Leetcode/tree/master/0013-roman-to-integer) |
 | [0022-generate-parentheses](https://github.com/yashica1234/Leetcode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/yashica1234/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1021-remove-outermost-parentheses](https://github.com/yashica1234/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yashica1234/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/yashica1234/Leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/yashica1234/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/yashica1234/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/yashica1234/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/yashica1234/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/yashica1234/Leetcode/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/yashica1234/Leetcode/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
