@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/yashica1234/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/yashica1234/Leetcode/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/yashica1234/Leetcode/tree/master/0206-reverse-linked-list) |
 | [1922-count-good-numbers](https://github.com/yashica1234/Leetcode/tree/master/1922-count-good-numbers) |
 ## Backtracking
 |  |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/yashica1234/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashica1234/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0206-reverse-linked-list](https://github.com/yashica1234/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yashica1234/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/yashica1234/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashica1234/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
