@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/yashica1234/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/yashica1234/Leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/yashica1234/Leetcode/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yashica1234/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/yashica1234/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/yashica1234/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yashica1234/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -292,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/yashica1234/Leetcode/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/yashica1234/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/yashica1234/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/yashica1234/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashica1234/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
