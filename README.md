@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yashica1234/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/yashica1234/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yashica1234/Leetcode/tree/master/0283-move-zeroes) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashica1234/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/yashica1234/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
 |  |
@@ -299,4 +300,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/yashica1234/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/yashica1234/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashica1234/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yashica1234/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
