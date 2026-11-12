@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/yashica1234/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/yashica1234/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yashica1234/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/yashica1234/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashica1234/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/yashica1234/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/yashica1234/Leetcode/tree/master/0234-palindrome-linked-list) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/yashica1234/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/yashica1234/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yashica1234/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/yashica1234/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yashica1234/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/yashica1234/Leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/yashica1234/Leetcode/tree/master/0268-missing-number) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashica1234/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/yashica1234/Leetcode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/yashica1234/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yashica1234/Leetcode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashica1234/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yashica1234/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/yashica1234/Leetcode/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/yashica1234/Leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/yashica1234/Leetcode/tree/master/0493-reverse-pairs) |
 ## Ordered Set
@@ -307,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/yashica1234/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/yashica1234/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/yashica1234/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/yashica1234/Leetcode/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashica1234/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/yashica1234/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/yashica1234/Leetcode/tree/master/0234-palindrome-linked-list) |
